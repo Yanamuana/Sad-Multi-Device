@@ -51,9 +51,9 @@ https://github.com/LitRHap
 https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
-*▸ - - - —「 KANG RECODE 」— - - - ◂*
-*❉ Fahri:*
-https://github.com/FahriAdison
+*▸ - - - —「 KANG REMCODE 」— - - - ◂*
+*❉ Gaara:*
+https://github.com/VarrX
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Kannachan:*
 *❉ Johannes:*
@@ -61,10 +61,10 @@ https://github.com/FahriAdison
 *❉ Rlxfly:*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://Instagram.com/gaara_xploite",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
-    title: 'Simple Bot Esm',
+    description: "https://Instagram.com/gaara_xploite", 
+    title: 'Simple Bot Wa',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
